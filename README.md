@@ -1,1 +1,5 @@
-# Netflix-movies-and-tv-shows-clustering
+Netflix's recommendation system provides them with an idea of the popularity of their services by increasing the number of subscriptions sold, which offers a variety of items for selection, which increases user satisfaction, loyalty to the platform, and provides them with a better understanding of what the user wants.
+
+Then it’s easier to get the user to make better decisions from a wide variety of movie products.
+
+Netflix is the leading Internet television network and the most valuable and largest streaming service in the world, with over 139 million paid subscribers (total viewer pool: 300 million) across 190 countries, 15,400 titles across its regional libraries, and 112 Emmy Award nominations in 2018. The success behind the amazing story of Netflix is incomplete without the mention of its recommender systems, which focus on personalization according to users. According to your preferences, there are several methods to create a list of recommendations. You can use collaborative filtering and content-based filtering for recommendations.
